@@ -1,7 +1,6 @@
-# cardiograph
-an Android Cardiograph  安卓心电图view
+# WaveView
+Android WaveView 安卓波形图
 
-求star  
-![image](https://github.com/githubwing/cardiograph/raw/master/perview.gif)
 
-博客讲解地址http://blog.csdn.net/wingichoy/article/details/51023865
+
+博客讲解地址https://download.csdn.net/download/qq_25467617/10642309
