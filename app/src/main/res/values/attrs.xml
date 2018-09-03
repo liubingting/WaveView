@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="paintColor" format="color"/>
+    <declare-styleable name="WaveView">
+        <attr name="paintColor"/>
+    </declare-styleable>
+</resources>
